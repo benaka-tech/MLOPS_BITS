@@ -1,0 +1,16 @@
+pandas
+scikit-learn
+pyspark
+great_expectations
+feast
+mlflow
+dvc
+evidently
+fairlearn
+whylogs
+docker
+kubernetes
+prometheus-client
+grafana-client
+arize
+deepchecks
